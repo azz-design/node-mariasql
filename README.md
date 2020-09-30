@@ -1,5 +1,5 @@
 
-Description
+Description for Nodejs Binding
 ===========
 
 A [node.js](http://nodejs.org/) binding to MariaDB's non-blocking (MySQL-compatible) client
